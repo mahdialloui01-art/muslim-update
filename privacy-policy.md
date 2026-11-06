@@ -25,7 +25,7 @@
 
 - [سياسة استخدام Nominatim](https://operations.osmfoundation.org/policies/nominatim/)
 - [حقوق وبيانات OpenStreetMap](https://www.openstreetmap.org/copyright)
-- [معلومات AlAdhan](https://aladhan.com/privacy-policy)
+- [توثيق واجهة AlAdhan](https://aladhan.com/prayer-times-api)
 
 ## 4. التخزين والاحتفاظ
 
